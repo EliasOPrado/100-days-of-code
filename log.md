@@ -12,7 +12,7 @@
 
 **Today's Progress**: worked on a simple project.
 
-**Thoughts:** Although I have a small knowledge of the basic points of JS, there are many things to master yet. Such as methods and proper creates a function.
+**Thoughts:** Although I have a small knowledge of the basic points of JS, there are many things to master yet. Such as methods and proper creates a function. These are few things which I have spotted, however, there are an ocean to learn during this 100 days.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
