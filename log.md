@@ -24,9 +24,18 @@
 ### Day 3:April 10, 2019 
 ##### (Followed a simple tutorial)
 
-**Today's Progress**: begin of Jquery.
+**Today's Progress**: begin of jQuery.
 
-Today I finished the small project with vanilla #JS  then jumped straight to #jQuery with @CodersInstitute. It is much easier to understand something when you are all in. However, I just need a bit of momentum to stop pushing and be part of the flow.
+**Thoughts:** Today I finished the small project with vanilla #JS  then jumped straight to #jQuery with @CodersInstitute. It is much easier to understand something when you are all in. However, I just need a bit of momentum to stop pushing and be part of the flow.
+
+### Day 4:April 11, 2019 
+##### (jQuery selectors to events)
+
+**Today's Progress**: jQuery.
+
+**Thoughts:** After finished the #JS #jquery selector part, today I began the jquery events. So far lessons are easier. I have to say that, those small projects with vanilla #javascript are helping loads. There are many small things that I should give attention after I finish this part such as SASS and Jasmine tesing.
+
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
