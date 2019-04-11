@@ -21,6 +21,12 @@
 
 **Thoughts:** there are many things that I still needing to learn. However, every tutorial that I am learning combined with the Code Institute lessons approaches me towards a better understanding of JS. Therefore, today I began a simple game project (tetris) in which helped me to better understand functions, variables and a little of how to structure code. I whish one day be able to emulate the code inside my head as driving a car or cycling. 
 
+### Day 3:April 10, 2019 
+##### (Followed a simple tutorial)
+
+**Today's Progress**: begin of Jquery.
+
+Today I finished the small project with vanilla #JS  then jumped straight to #jQuery with @CodersInstitute. It is much easier to understand something when you are all in. However, I just need a bit of momentum to stop pushing and be part of the flow.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
