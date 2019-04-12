@@ -42,6 +42,22 @@
 
 **Thoughts:** #javascript #jQuery events are awesome and great to work with for newbies like me haha. The purpose of the study today was simple to make some animations using different jQuery functions such as .show(), .hide(), .toggle() and many others.
 
+```
+ $("#btn2").on("click", function() {
+        $("#btn2").fadeToggle(1000); //firts animation
+        $("#btn2").slideToggle('slow');// second aniamatio
+        $("#btn2").css('background-color', 'blue');//change the button color to blue
+        $('#par2').slideUp('1000');// paragraph first animation on click
+        $('#par2').slideToggle('1000');// paragraph secnd animation on second click
+    });
+     /*fade buttom with moused hovering*/
+     
+     $("#btn2").mouseenter(function(){
+        $('#btn2').fadeTo(1000, 0.5);// initial effect when hovering.
+        $('#btn2').fadeTo(1000, 1);// effect when finishs hovering.
+    });
+```
+
 
 
 **Link(s) to work**
