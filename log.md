@@ -35,6 +35,13 @@
 
 **Thoughts:** After finished the #JS #jquery selector part, today I began the jquery events. So far lessons are easier. I have to say that, those small projects with vanilla #javascript are helping loads. There are many small things that I should give attention after I finish this part such as SASS and Jasmine tesing.
 
+### Day 5:April 12, 2019 
+##### (jQuery events)
+
+**Today's Progress**: jQuery.
+
+**Thoughts:** #javascript #jQuery events are awesome and great to work with for newbies like me haha. The purpose of the study today was simple to make some animations using different jQuery functions such as .show(), .hide(), .toggle() and many others.
+
 
 
 **Link(s) to work**
