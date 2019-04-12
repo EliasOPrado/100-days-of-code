@@ -50,8 +50,8 @@
         $('#par2').slideUp('1000');// paragraph first animation on click
         $('#par2').slideToggle('1000');// paragraph secnd animation on second click
     });
+    
      /*fade buttom with moused hovering*/
-     
      $("#btn2").mouseenter(function(){
         $('#btn2').fadeTo(1000, 0.5);// initial effect when hovering.
         $('#btn2').fadeTo(1000, 1);// effect when finishs hovering.
