@@ -57,7 +57,12 @@
         $('#btn2').fadeTo(1000, 1);// effect when finishs hovering.
     });
 ```
+### Day 6:April 13, 2019 
+##### (progress)
 
+**Today's Progress**: jQuery.
+
+**Thoughts:** I still pushing, it is not easy to learn how to code. However, today things are much easier than before. Learning different effects with #javascript and #jQuery to improve user interaction. #gitcommit #gitpush.
 
 
 **Link(s) to work**
